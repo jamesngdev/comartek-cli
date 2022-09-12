@@ -1,16 +1,16 @@
-# `@dkundel/create-project`
+# `@jamesngdev/comartek-cli`
 
-🏗 Personal CLI to bootstrap new projects
+🏗 Comartek CLI to generate code.
 
 ## Installation & Usage
 
 ```bash
-npm init @dkundel/project
+npm init @jamesngdev/comartek-cli
 # or
-npx @dkundel/create-project
+npx @jamesngdev/comartek-cli
 # or
-npm install -g @dkundel/create-project
-create-project
+npm install -g @jamesngdev/comartek-cli
+create-redux-action
 ```
 
 ## License
@@ -19,4 +19,4 @@ MIT
 
 ## Collaborators
 
-- Dominik Kundel <hi@dominik.dev>
+- James Nguyen <jamesngdev@gmail.com>
